@@ -30,8 +30,8 @@ module.exports = () => {
         desription: 'Best offline text editor',
         theme_color: '#1e1e1e',
         background_color: '#225ca3',         
-        start_url: "/",
-        publicPath: "/",
+        start_url: '/',
+        publicPath: '/',
 
       icons: [
         {
